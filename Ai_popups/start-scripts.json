@@ -1,0 +1,13 @@
+{
+  "name": "smart-clearance-popups",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "concurrently \"npm run dev\" \"npm run backend\"",
+    "dev": "vite",
+    "backend": "cd backend && python main.py",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "lint": "eslint .",
+    "setup": "npm install && cd backend && pip install -r requirements.txt"
+  }
+}
