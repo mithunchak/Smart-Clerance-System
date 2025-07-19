@@ -8,11 +8,9 @@ This project is an AI-powered clearance management system designed to reduce inv
 
 ## 📊 Key Metrics
 
-- **18% reduction** in inventory waste
 - **95% category accuracy** in recommendations
 - **60+ products** across 6 categories
 - **1-5 minute** auto-popup intervals
-- **70% clearance rate** optimization
 
 ## 🛠️ Tech Stack
 
@@ -214,7 +212,6 @@ scoring_weights = {
 ## 📈 Performance Metrics
 
 ### Business Impact
-- **Inventory waste reduction**: 18%
 - **Popup visibility increase**: 20-50%
 - **Conversion lift**: 10%+
 - **Category targeting accuracy**: 95%
@@ -263,7 +260,6 @@ final_score = (
 ## 🏆 Achievements
 
 - **Innovation**: AI-powered deadstock management
-- **Impact**: 18% waste reduction in retail environment
 - **Technology**: Cutting-edge ML recommendation system
 - **Sustainability**: Eco-conscious shopping promotion
 
